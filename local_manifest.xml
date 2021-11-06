@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <manifest>
 
-      <remote name="DebiprasadXD"
-          fetch="https://github.com/DebiprasadXD" />
+      <remote name="DebnationXD"
 
-  <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-1" remote="DebiprasadXD" revision="eleven" />
-  <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="DebiprasadXD" revision="11" />
-  <project path="kernel/xiaomi/lavender" name="nexus_kernel_xiaomi_lavender" remote="DebiprasadXD" revision="eas-main" />
+          fetch="https://github.com/DebnationXD" />
+
+  <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-1" remote="DebnationXD" revision="eleven" />
+
+  <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender-1" remote="DebnationXD" revision="11" />
+
+  <project path="kernel/xiaomi/lavender" name="nexus_kernel_xiaomi_lavender" remote="DebnationXD" revision="eas-main" />
+
   
+
   
+
 </manifest>

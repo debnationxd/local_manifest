@@ -6,11 +6,11 @@
 
           fetch="https://github.com/DebnationXD" />
 
-  <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-1" remote="DebnationXD" revision="11-caf" />
+  <project path="device/xiaomi/lavender" name="device_xiaomi_lavender" remote="DebnationXD" revision="caf" />
 
-  <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender-1" remote="DebnationXD" revision="11-caf" />
+  <project path="vendor/xiaomi/lavender" name="android_vendor_xiaomi_lavender" remote="DebnationXD" revision="caf" />
 
-  <project path="kernel/xiaomi/lavender" name="nexus_kernel_xiaomi_lavender" remote="DebnationXD" revision="eas-main" />
+  <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="DebnationXD" revision="oldcam-hmp" />
 
   
 

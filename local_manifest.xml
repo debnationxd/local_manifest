@@ -14,6 +14,7 @@
 
   <project path="device/qcom/sepolicy-legacy-um" name="android_device_qcom_sepolicy" remote="DebnationXD" revision="lineage-18.1-legacy-um" />
 
+  <project path="device/qcom/<project path="device/qcom/sepolicy-vndr" name="platform_device_qcom_sepolicy_vndr" remote="DebnationXD" revision="11.0" />
 
   
 

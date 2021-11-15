@@ -6,16 +6,10 @@
 
           fetch="https://github.com/DebnationXD" />
 
-  <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-1" remote="DebnationXD" revision="11-caf" />
+  <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-1" remote="DebnationXD" revision="posp-11" />
 
-  <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender-1" remote="DebnationXD" revision="11-caf" />
+  <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender-1" remote="DebnationXD" revision="11" />
 
-  <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="DebnationXD" revision="oldcam-eas" />
-
-  <project path="device/qcom/sepolicy-legacy-um" name="android_device_qcom_sepolicy" remote="DebnationXD" revision="lineage-18.1-legacy-um" />
-
-  <project path="device/qcom/sepolicy-vndr" name="platform_device_qcom_sepolicy_vndr" remote="DebnationXD" revision="11.0" />
-
-  
+  <project path="kernel/xiaomi/lavender" name="nexus_kernel_xiaomi_lavender" remote="DebnationXD" revision="eas-main" />
 
 </manifest>

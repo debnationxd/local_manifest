@@ -12,4 +12,6 @@
 
   <project path="kernel/xiaomi/lavender" name="nexus_kernel_xiaomi_lavender" remote="DebnationXD" revision="eas-main" />
 
+  <project path="device/xiaomi/android_hardware_qcom_wlan" name="android_hardware_qcom_wlan" remote="DebnationXD" revision="android_11-caf" />
+
 </manifest>
